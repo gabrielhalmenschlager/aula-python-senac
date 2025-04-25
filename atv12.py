@@ -8,4 +8,4 @@ for letra in palavra:
     else:
         contagem[letra] = 1
         
-print("Contagem das letras:", contagem)
+print(f"Contagem das letras: {contagem}")
